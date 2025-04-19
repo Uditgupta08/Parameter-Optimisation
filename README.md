@@ -31,5 +31,12 @@ This project performs Support Vector Machine (SVM) optimization on a multi-class
 
 ## 📈 Results
 - Reported accuracy and best parameters for each of the 10 samples.
+
+![image](https://github.com/user-attachments/assets/e6859e44-4021-4334-8094-4063c163e3c2)
+
+
 - Highest accuracy sample visualized using a convergence (learning) curve.
+
+![image](https://github.com/user-attachments/assets/7410b31c-5290-4af9-a6dc-fba2862f8675)
+
 
